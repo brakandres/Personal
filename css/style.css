@@ -31,7 +31,7 @@ a {
 }
 
 a:hover {
-  color: red;
+  color: black;
   text-decoration: none;
 }
 
@@ -59,10 +59,8 @@ h1, h2, h3, h4, h5, h6 {
   transition: ease-in-out 0.3s;
 }
 #header h1 {
-  font-size: 48px;
   margin: 0;
   padding: 0;
-  line-height: 1;
   font-weight: 700;
   font-family: "Poppins", sans-serif;
 }
@@ -139,12 +137,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 #header.header-top h1 {
   margin-right: auto;
-  font-size: 36px;
-  flex-direction: column;
 }
 #header.header-top .container {
   display: flex;
   align-items: center;
+  flex-direction: column;
 }
 #header.header-top .navbar {
   margin: 0;
