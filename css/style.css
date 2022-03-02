@@ -51,6 +51,10 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 997;
   overflow-y: auto;
 }
+.titulo{
+  font-size: 2.5rem;
+  color: white;
+}
 #header * {
   transition: ease-in-out 0.3s;
 }
