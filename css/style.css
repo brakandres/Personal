@@ -609,7 +609,7 @@ section .container {
   transition: all ease-in-out 0.3s;
 }
 .services .icon-box .icon {
-  margin: 0 auto;
+  margin: 20 auto;
   width: 64px;
   height: 64px;
   background: #021B79;
