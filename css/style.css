@@ -19,6 +19,7 @@ body::before {
   z-index: -1;
   animation: fanimado 10s infinite;
 }
+
 @media (min-width: 1024px) {
   body::before {
     background-attachment: fixed;
@@ -1044,4 +1045,6 @@ section .container {
 .credits a:hover {
   color: #fff;
 }
-
+.twitter1{
+  margin-top: 20px;
+}
